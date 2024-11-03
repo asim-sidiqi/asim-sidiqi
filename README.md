@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Asim Siddiqui</h1>
 <h3 align="center">Just a regular programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asim-sidiqi&label=Profile%20views&color=0e75b6&style=flat" alt="asim-sidiqi" /> </p>
+<div align="center">
+  <img height="350" src="https://media4.giphy.com/media/e9pFONc1qhUje/giphy.webp?cid=790b76113zemiakasw3o3h0q0njh7cb8qchimubz5nnbvyvs&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+</div>
 
+<h3>Profile Views: </h3>
+<img src="https://profile-counter.glitch.me/asim-sidiqi/count.svg?"  />
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim-sidiqi&label=Profile%20views&color=0e75b6&style=flat" alt="asim-sidiqi" /> </p>
+ -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim-sidiqi" alt="asim-sidiqi" /></a> </p>
 
 - 🔭 I’m currently working on **Manushi**
