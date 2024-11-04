@@ -2,7 +2,7 @@
 <h3 align="center">Just a regular programmer</h3>
 
 <div align="center">
-  <img height="350" src="https://media2.giphy.com/media/yxgAo7fEA8Ip2/200.webp?cid=790b7611c2ev0v3jiidrhmi088yb6ml573drs3jzkt7xossw&ep=v1_gifs_search&rid=200.webp&ct=g"  />
+  <img height="200" src="https://media2.giphy.com/media/yxgAo7fEA8Ip2/200.webp?cid=790b7611c2ev0v3jiidrhmi088yb6ml573drs3jzkt7xossw&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 </div>
 
 <h3>Profile Views: </h3>
