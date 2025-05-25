@@ -2,8 +2,7 @@
 <h3 align="center">Just a regular programmer</h3>
 
 <div align="center">
-  <img height="350" src="<img height="350" src="https://github.com/asim-sidiqi/asim-sidiqi/blob/sacrifice.jpg?raw=true" />
-"  />
+  <img height="650" width="950" src="𝚜𝚊𝚌𝚛𝚒𝚏𝚒𝚌𝚎.jpg" />
 </div>
 
 <h3>Profile Views: </h3>
