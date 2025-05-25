@@ -2,7 +2,7 @@
 <h3 align="center">Just a regular programmer</h3>
 
 <div align="center">
-  <img height="350" src="[https://media4.giphy.com/media/e9pFONc1qhUje/giphy.webp?cid=790b761170odhexnr5qa3k0ibefph7kaz29mq1rdfqc5usjo&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shazam.com%2Fsong%2F1808901791%2Frhythm-heaven-jumpstyle-super-slowed-and-reverb&psig=AOvVaw3FrZgl4siGZ4z5wLpQt5VB&ust=1748251504223000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjd1Mumvo0DFQAAAAAdAAAAABAE)"  />
+  <img height="350" src="[[https://media4.giphy.com/media/e9pFONc1qhUje/giphy.webp?cid=790b761170odhexnr5qa3k0ibefph7kaz29mq1rdfqc5usjo&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shazam.com%2Fsong%2F1808901791%2Frhythm-heaven-jumpstyle-super-slowed-and-reverb&psig=AOvVaw3FrZgl4siGZ4z5wLpQt5VB&ust=1748251504223000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjd1Mumvo0DFQAAAAAdAAAAABAE)](https://i.ytimg.com/vi/3KbJ1t1oNIQ/maxresdefault.jpg)"  />
 </div>
 
 <h3>Profile Views: </h3>
