@@ -2,7 +2,7 @@
 <h3 align="center">Just a regular programmer</h3>
 
 <div align="center">
-  <img height="650" width="950" src="𝚜𝚊𝚌𝚛𝚒𝚏𝚒𝚌𝚎.jpg" />
+  <img height="650" width="950" src="assets/𝚜𝚊𝚌𝚛𝚒𝚏𝚒𝚌𝚎.jpg" />
 </div>
 
 <h3>Profile Views: </h3>
