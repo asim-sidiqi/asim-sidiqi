@@ -11,19 +11,23 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim-sidiqi&label=Profile%20views&color=0e75b6&style=flat" alt="asim-sidiqi" /> </p>
  -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim-sidiqi" alt="asim-sidiqi" /></a> </p>
+<table>
+  <tr>
+    <td>
 
-- 🔭 I’m currently working on **Manushi**
-
-- 🌱 I’m currently learning **Deep Learning, NLP**
-
-- 🤝 I’m looking for help with **Generative AI**
-
-- 💬 Ask me about **React, Next, ML**
-
-- 📫 How to reach me **29aseem.sid@gmail.com**
-
-- ⚡ Fun fact **I put milk before cereal**
-
+🔭 I’m currently working on **Manushi**  
+🌱 I’m currently learning **Deep Learning, NLP**  
+🤝 I’m looking for help with **Generative AI**  
+💬 Ask me about **React, Next, ML**  
+📫 How to reach me **29aseem.sid@gmail.com**  
+⚡ Fun fact **I put milk before cereal**
+</td>
+    </td>
+    <td>
+      <img src="assets/snaplytics.io_photo_1.jpg" alt="Snaplytics Project" width="400"/>
+    </td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asim-sidiqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asim-sidiqi" height="30" width="40" /></a>
