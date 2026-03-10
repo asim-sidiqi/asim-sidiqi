@@ -39,3 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asim-sidiqi&show_icons=true&locale=en" alt="asim-sidiqi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asim-sidiqi&" alt="asim-sidiqi" /></p>
+
+# 📈 Contribution Graph
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=lucky15426&theme=tokyo-night)
+
+---
