@@ -42,6 +42,6 @@
 
 # 📈 Contribution Graph
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=lucky15426&theme=tokyo-night)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=asim-sidiqi&theme=tokyo-night)
 
 ---
